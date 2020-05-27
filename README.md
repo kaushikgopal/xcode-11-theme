@@ -5,6 +5,11 @@
 
 ## Screenshots
 
+### Terminal.app Xcode 11 Dark
+
+![terminal.app xcode 11
+dark](https://raw.githubusercontent.com/kaushikgopal/xcode-11-theme/master/xcode11-terminal-dark.png "Xcode 11 Dark Terminal.app")
+
 ## Editor support
 
 * Terminal.app
