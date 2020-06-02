@@ -1,10 +1,10 @@
 <scheme name="Xcode-Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-01T17:50:41</property>
+    <property name="created">2020-06-01T18:26:50</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-06-01T17:51:02</property>
+    <property name="modified">2020-06-01T18:26:58</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Input" />
@@ -104,7 +104,6 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="f97bb0" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
