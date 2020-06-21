@@ -1,16 +1,16 @@
 <scheme name="Xcode-Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-20T17:59:42</property>
+    <property name="created">2020-06-20T18:17:45</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-06-20T17:59:51</property>
+    <property name="modified">2020-06-20T18:17:53</property>
     <property name="originalScheme">Xcode-Light</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Input Mono Narrow" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="Input" />
+  <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="0.9" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
@@ -315,7 +315,7 @@
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b4f79" />
+        <option name="FOREGROUND" value="20999d" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
@@ -325,7 +325,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="78492a" />
+        <option name="FOREGROUND" value="f58a3f" />
       </value>
     </option>
     <option name="List/map to object conversion">
