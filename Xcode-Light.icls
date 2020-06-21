@@ -1,16 +1,16 @@
 <scheme name="Xcode-Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-17T11:43:39</property>
+    <property name="created">2020-06-20T17:54:07</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-06-17T11:43:49</property>
+    <property name="modified">2020-06-20T17:54:18</property>
     <property name="originalScheme">Xcode-Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Input Mono Narrow" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
