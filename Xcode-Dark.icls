@@ -1,15 +1,18 @@
 <scheme name="Xcode-Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-02T16:03:13</property>
+    <property name="created">2020-07-25T23:32:19</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.0.16</property>
-    <property name="modified">2020-06-02T16:03:23</property>
+    <property name="modified">2020-07-25T23:32:32</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Input" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Rec Mono SemiCasual" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Rec Mono Linear" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2f3239" />
     <option name="GUTTER_BACKGROUND" value="292a30" />
@@ -400,7 +403,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="dfdfe0" />
+        <option name="FOREGROUND" value="cccccd" />
         <option name="BACKGROUND" value="292a30" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
