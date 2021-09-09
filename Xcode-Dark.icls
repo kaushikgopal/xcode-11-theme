@@ -1,18 +1,23 @@
-<scheme name="Xcode-Dark" version="142" parent_scheme="Darcula">
+<scheme name="xcode11_dark_hc" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-09-28T12:11:39</property>
+    <property name="created">2021-09-09T15:46:01</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">4.1.0.18</property>
-    <property name="modified">2020-09-28T12:11:49</property>
+    <property name="ideVersion">2020.3.1.23</property>
+    <property name="modified">2021-09-09T15:46:23</property>
     <property name="originalScheme">Xcode-Dark</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Rec Mono Dark" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="SF Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2f3239" />
-    <option name="GUTTER_BACKGROUND" value="292a30" />
+    <option name="GUTTER_BACKGROUND" value="1f1f24" />
+    <option name="INDENT_GUIDE" value="" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+    <option name="SEPARATOR_BELOW_COLOR" value="" />
+    <option name="TEARLINE_COLOR" value="1f1f24" />
     <option name="WHITESPACES" value="4f535f" />
   </colors>
   <attributes>
@@ -59,6 +64,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value>
+        <option name="FOREGROUND" value="92d084" />
+      </value>
+    </option>
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="daca77" />
@@ -103,12 +113,12 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f97bb0" />
+        <option name="FOREGROUND" value="ff85b8" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="FOREGROUND" value="75c2b3" />
+        <option name="FOREGROUND" value="83c9bc" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -128,12 +138,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d7c781" />
+        <option name="FOREGROUND" value="d9c668" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="dbb8ff" />
+        <option name="FOREGROUND" value="cda1ff" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -153,7 +163,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ff806c" />
+        <option name="FOREGROUND" value="ff8a7a" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -294,7 +304,6 @@
         <option name="BACKGROUND" value="c4d3f1" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="b37eee" />
@@ -307,7 +316,7 @@
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4888f3" />
+        <option name="FOREGROUND" value="5394ec" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
@@ -317,7 +326,7 @@
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c0a258" />
+        <option name="FOREGROUND" value="abc023" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
@@ -400,8 +409,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="cccccd" />
-        <option name="BACKGROUND" value="292a30" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="1f1f24" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
